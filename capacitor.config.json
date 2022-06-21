@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Blendr",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
